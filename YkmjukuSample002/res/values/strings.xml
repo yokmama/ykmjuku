@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AppWidgetSampleActivity!</string>
+    <string name="app_name">TouchWidget</string>
+    <string name="help">本アプリはホームに配置するウィジェットアプリです。本アプリを終了し、ホームを表示して、どこか開いている箇所を長押しすると、メニューが表示されますので、そこからウィジェットを選択しTouchWidgetを選択してください。</string>
+</resources>

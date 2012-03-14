@@ -38,7 +38,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends Activity implements OnClickListener {
-    public static final String APIKEY="35A45708A82318800D4CE6BC19C52C0F04C22ED9";
+    public static final String APIKEY="<YOUR KEY>";
     
     private EditText mEdit1;
     private EditText mEdit2;
